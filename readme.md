@@ -15,4 +15,4 @@ Step 4- Run the file. It will take roughly 2 minutes to complete.
     Meanwhile, go to langsmith and start reading your traces.
     Boom, you have reflexion agent working with two chains.
 
-    ![Image alt](https://raw.githubusercontent.com/OkraGrey/Reflexion_Agent_with_search/refs/heads/main/image.png)
+ ![Image alt](https://raw.githubusercontent.com/OkraGrey/Reflexion_Agent_with_search/main/image.png)
